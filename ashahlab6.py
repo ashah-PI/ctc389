@@ -3,7 +3,10 @@
 #Lab 6
 count = 0
 num=0
+print ("List of the current student")
 student = ["John", "Makeyla", "Zionel", "Carmen", "Ruth"]
+for i in student:
+    print(i)
 
 print("----------------------------------------------")
 print("Option 1: Add student to the list ")
