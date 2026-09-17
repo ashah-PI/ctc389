@@ -75,7 +75,7 @@ while again =="yes" or again == "Yes" or again== "YES":
     elif option5 == 2:
         print("The raft carries you away, but the waves grow violent.", name, "you barely escape with your life!")
     elif option5 == 3:
-        print("The zipline snaps halfway across the canyon.", name, "you fall into the jungle but survive. You are safe for now.")
+        print("The zipline snaps halfway across the canyon.", name, "you fall into the jungle and perish.")
     else:
         print(name, "your hesitation costs you precious time. The volcano erupts and you do not survive.")
 
